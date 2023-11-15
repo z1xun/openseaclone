@@ -7,6 +7,7 @@ import "swiper/css/navigation";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { HiMiniCheckBadge } from "react-icons/hi2";
 import { Tab } from "../common/tabmenu/TabMenu";
+import { Navigation } from "swiper/modules";
 
 const Layout = ({ children }) => {
     return (
@@ -29,6 +30,7 @@ const Layout = ({ children }) => {
                         onSlideChange={() => console.log("slide change")}
                         onSwiper={(swiper) => console.log(swiper)}
                         navigation={true}
+                        modules={[Navigation]}
                     >
                         <SwiperSlide>
                             <CardWrap
