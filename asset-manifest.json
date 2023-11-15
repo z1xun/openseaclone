@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/openseaclone/static/css/main.76c223c6.css",
+    "main.js": "/openseaclone/static/js/main.97a6ad88.js",
+    "static/js/787.28cb0dcd.chunk.js": "/openseaclone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/opensea-logo.svg": "/openseaclone/static/media/opensea-logo.bebf2b5487aede8b2c30d4494013a3c2.svg",
+    "index.html": "/openseaclone/index.html",
+    "main.76c223c6.css.map": "/openseaclone/static/css/main.76c223c6.css.map",
+    "main.97a6ad88.js.map": "/openseaclone/static/js/main.97a6ad88.js.map",
+    "787.28cb0dcd.chunk.js.map": "/openseaclone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c223c6.css",
+    "static/js/main.97a6ad88.js"
+  ]
+}
