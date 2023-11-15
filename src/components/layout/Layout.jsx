@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
                     >
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide1.avif"}
+                                imageUrl={"./slide1.avif"}
                                 imageAlt={"슬라이드1"}
                                 title={"Being by Parin Heidari "}
                                 floor={"0.03"}
@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide2.avif"}
+                                imageUrl={"./slide2.avif"}
                                 imageAlt={"슬라이드2"}
                                 title={"Monster Party"}
                                 floor={"0.05"}
@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide3.avif"}
+                                imageUrl={"./slide3.avif"}
                                 imageAlt={"슬라이드3"}
                                 title={"Springfield Punks"}
                                 floor={"0.02"}
@@ -59,7 +59,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide4.avif"}
+                                imageUrl={"./slide4.avif"}
                                 imageAlt={"슬라이드4"}
                                 title={"PARTS    "}
                                 floor={"0.08"}
@@ -68,7 +68,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide5.avif"}
+                                imageUrl={"./slide5.avif"}
                                 imageAlt={"슬라이드5"}
                                 title={"/// by Snowfro  "}
                                 floor={"0.01"}
@@ -77,7 +77,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide6.avif"}
+                                imageUrl={"./slide6.avif"}
                                 imageAlt={"슬라이드6"}
                                 title={"Mutant Ape Yacht Club "}
                                 floor={"0.03"}
@@ -96,7 +96,7 @@ const Layout = ({ children }) => {
                     >
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide7.avif"}
+                                imageUrl={"./slide7.avif"}
                                 imageAlt={"슬라이드1"}
                                 title={"Being by Parin Heidari "}
                                 floor={"0.03"}
@@ -105,7 +105,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide8.avif"}
+                                imageUrl={"./slide8.avif"}
                                 imageAlt={"슬라이드2"}
                                 title={"Monster Party"}
                                 floor={"0.05"}
@@ -114,7 +114,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide9.avif"}
+                                imageUrl={"./slide9.avif"}
                                 imageAlt={"슬라이드3"}
                                 title={"Springfield Punks"}
                                 floor={"0.02"}
@@ -123,7 +123,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide10.avif"}
+                                imageUrl={"./slide10.avif"}
                                 imageAlt={"슬라이드4"}
                                 title={"PARTS    "}
                                 floor={"0.08"}
@@ -132,7 +132,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide11.avif"}
+                                imageUrl={"./slide11.avif"}
                                 imageAlt={"슬라이드5"}
                                 title={"/// by Snowfro  "}
                                 floor={"0.01"}
@@ -141,7 +141,7 @@ const Layout = ({ children }) => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <CardWrap
-                                imageUrl={"/slide6.avif"}
+                                imageUrl={"./slide6.avif"}
                                 imageAlt={"슬라이드6"}
                                 title={"Mutant Ape Yacht Club "}
                                 floor={"0.03"}
